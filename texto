@@ -1,0 +1,6 @@
+texto = "aprendendo python na disciplina de linguagem de programação."
+
+print(f"tamanho do texto = {len(texto)}")
+print(f"python in texto = {'python' in texto}")
+print(f"quantidade de y no texto = {texto.count('y')}")
+print(f"as 5 primeiras letras sao: {texto[0:6]}")
